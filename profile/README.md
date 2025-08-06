@@ -118,7 +118,6 @@ We welcome contributions from the community! Here's how you can get involved:
 
 ## 🏅 Certifications & Memberships
 
-- American IT Solutions Association (AIA) Member
 - Expertise in financial middleware and BPM solutions
 - Specialized in blockchain and Web3 development
 
