@@ -5,6 +5,28 @@
 </div>
 
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+### 🌟 Organization Overview
+![Total Stars](https://img.shields.io/github/stars/Teckas-Technologies?affiliations=OWNER&style=for-the-badge&color=yellow)
+![Total Forks](https://img.shields.io/github/forks/Teckas-Technologies?affiliations=OWNER&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/Teckas-Technologies?style=for-the-badge&color=green)
+
+### 📈 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Teckas-Technologies&theme=react-dark&hide_border=true)
+
+### 🏆 Top Repositories
+<a href="https://github.com/Teckas-Technologies/agentify-new-ui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teckas-Technologies&repo=agentify-new-ui&theme=dark" />
+</a>
+<a href="https://github.com/Teckas-Technologies/AIGENT_Wallet_Extension">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teckas-Technologies&repo=AIGENT_Wallet_Extension&theme=dark" />
+</a>
+
+</div>
+
 ## 🚀 About Us
 
 We are Teckas Technologies, a forward-thinking technology company that builds products for the future. We specialize in developing innovative solutions that automate marketing, enhance employee and customer engagement, and pioneer Web3 technologies.
